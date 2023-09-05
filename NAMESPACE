@@ -2,3 +2,5 @@
 
 export(profit_analysis)
 importFrom(magrittr,"%>%")
+importFrom(rlang,":=")
+importFrom(rlang,.data)
