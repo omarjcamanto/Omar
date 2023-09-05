@@ -4,9 +4,9 @@
 \name{Omar-package}
 \alias{Omar}
 \alias{Omar-package}
-\title{Omar: What the Package Does (One Line, Title Case)}
+\title{Omar: Untitled}
 \description{
-What the package does (one paragraph).
+Generates Rough Guidelines for Optimal Profit.
 }
 \seealso{
 Useful links:
@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Omar Camanto \email{ocamanto@uwo.ca}
 
 }
 \keyword{internal}

@@ -9,7 +9,7 @@ profit_analysis(data, size = 1)
 \arguments{
 \item{data}{input data frame specifying price and acreage of each comparable lot.}
 
-\item{size}{a numerical vector specifying the acreage of lot of interest.}
+\item{size}{a numerical vector specifying the acreage of the lot of interest. 1 acre is the default.}
 }
 \value{
 list
