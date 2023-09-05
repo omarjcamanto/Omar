@@ -19,11 +19,11 @@ Profit analysis
 }
 \examples{
 df <- dplyr::tribble(
-~price, ~acres,
-6969, 6,
-6996, 9,
-9669, 6,
-9696, 9
+~price, ~size, ~unit,
+6969, 6, "acre",
+6996, 9, "sqft",
+9669, 6, "acre",
+9696, 9, "sqft"
 )
 profit_analysis(df)
 }
