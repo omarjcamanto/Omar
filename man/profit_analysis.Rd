@@ -15,7 +15,7 @@ profit_analysis(data, size = 1)
 list
 }
 \description{
-Profit analysis
+line to test pull request
 }
 \examples{
 df <- dplyr::tribble(
