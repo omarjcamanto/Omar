@@ -12,4 +12,7 @@ git_sitrep() #view the effects of running pr_init().
 # Post Work --------------------------------------------------------------------
 pr_push() #push local changes to GitHub fork (i.e., origin) and set up pull request to send the source repo (i.e., upstream)
 
+#if maintainer revises pull request use...
+pr_pull() #pull changes from maintainer
+
 pr_finish() #conclude pull request process.
