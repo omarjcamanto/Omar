@@ -13,7 +13,7 @@ usethis::git_sitrep() #view the effects of running pr_init().
 usethis::pr_push() #push local changes to GitHub fork (i.e., origin) and set up pull request to send the source repo (i.e., upstream)
 
 #to view state of pull-request...
-usethis::pr_view()
+#usethis::pr_view() #run in console with pull-request number inserted
 
 # Another Round of Revisions? ---------------------------------------------
 
@@ -22,6 +22,9 @@ usethis::pr_pull() #pull changes from maintainer
 
 #if you add revisions to pull request, commit revisions and use...
 usethis::pr_push() #send out pull-request again
+
+#to view state of pull-request...
+#usethis::pr_view() #run in console with pull-request number inserted
 
 # Conclude Pull-Request ---------------------------------------------------
 usethis::pr_finish() #conclude pull request process.
