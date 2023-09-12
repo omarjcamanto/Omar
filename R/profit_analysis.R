@@ -2,6 +2,7 @@
 #'
 #' contributor revision
 #' maintainer revision
+#' contributor revision
 #'
 #' @param data input data frame specifying price and acreage of each comparable lot.
 #' @param size a numerical vector specifying the acreage of the lot of interest. 1 acre is the default.
