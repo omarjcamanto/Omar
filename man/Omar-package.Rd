@@ -4,7 +4,7 @@
 \name{Omar-package}
 \alias{Omar}
 \alias{Omar-package}
-\title{Omar: Untitled}
+\title{Omar: Omar's R Sandbox}
 \description{
 Generates Rough Guidelines for Optimal Profit.
 }
