@@ -1,5 +1,5 @@
 Package: Omar
-Title: Untitled
+Title: Omar's R Sandbox
 Version: 0.0.0.9000
 Authors@R: 
     person("Omar", "Camanto", , "ocamanto@uwo.ca", role = c("aut", "cre"))
