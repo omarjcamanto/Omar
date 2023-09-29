@@ -6,7 +6,7 @@
 \alias{Omar-package}
 \title{Omar: Omar's R Sandbox}
 \description{
-Generates Rough Guidelines for Optimal Profit.
+Omar's R sandbox for playing around with R package development and Git workflows.
 }
 \seealso{
 Useful links:
