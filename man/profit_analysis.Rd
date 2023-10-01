@@ -15,7 +15,7 @@ profit_analysis(data, size = 1)
 list
 }
 \description{
-Profit analysis
+line from pr branch
 }
 \examples{
 df <- dplyr::tribble(
