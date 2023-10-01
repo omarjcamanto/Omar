@@ -6,7 +6,7 @@
 \alias{Omar-package}
 \title{Omar: Omar's R Sandbox}
 \description{
-Omar's R sandbox for playing around with R package development and Git workflows. [line from pr2 branch]
+Omar's R sandbox for playing around with R package development and Git workflows.
 }
 \seealso{
 Useful links:
