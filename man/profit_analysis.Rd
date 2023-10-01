@@ -16,6 +16,7 @@ list
 }
 \description{
 line from pr1
+another line from pr1
 }
 \examples{
 df <- dplyr::tribble(
