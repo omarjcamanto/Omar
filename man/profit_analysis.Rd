@@ -15,7 +15,8 @@ profit_analysis(data, size = 1)
 list
 }
 \description{
-Profit analysis
+line from pr1
+another line from pr1
 }
 \examples{
 df <- dplyr::tribble(
