@@ -15,8 +15,7 @@ profit_analysis(data, size = 1)
 list
 }
 \description{
-line from pr1
-another line from pr1
+\code{profit_analysis()} provides guidelines for purchasing and flipping land parcels.
 }
 \examples{
 df <- dplyr::tribble(
